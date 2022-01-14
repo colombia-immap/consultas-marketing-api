@@ -17,9 +17,9 @@ Scripts JSON de consultas configuradas para recolectar datos de la API de mercad
     from pysocialwatcher import watcherAPI
 
     if __name__ == '__main__':
-      watcher = watcherAPI(api_version="12.0", sleep_time=8, outputname="dataframe_collected_finished_bogota_loc_dec.csv")
+      watcher = watcherAPI(api_version="12.0", sleep_time=8, outputname="nombre_archivo_salida.csv")
       watcher.load_credentials_file("cerdenciales.csv")
-      df = watcher.run_data_collection("archivo_script_consulta", remove_tmp_files=True)
+      df = watcher.run_data_collection("nombre_script_consulta", remove_tmp_files=True)
     ```
     
 2. En consola: `python ejecutar_consulta.py`
