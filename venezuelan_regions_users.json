@@ -1,0 +1,329 @@
+{
+  "genders": [
+    0
+  ],
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "geo_locations": [
+    {
+      "pySocialWatcherReference": "AMAZONAS",
+      "values": [
+        {
+          "key": "3933"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "ANZOATEGUI",
+      "values": [
+        {
+          "key": "3934"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "APURE",
+      "values": [
+        {
+          "key": "3935"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "ARAGUA",
+      "values": [
+        {
+          "key": "3936"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "BARINAS",
+      "values": [
+        {
+          "key": "3937"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "BOLIVAR",
+      "values": [
+        {
+          "key": "3938"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "CARABOBO",
+      "values": [
+        {
+          "key": "3939"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "COJEDES",
+      "values": [
+        {
+          "key": "3940"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "DELTA AMACURO",
+      "values": [
+        {
+          "key": "3941"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "DISTRITO CAPITAL",
+      "values": [
+        {
+          "key": "3956"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "FALCON",
+      "values": [
+        {
+          "key": "3942"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "GUARICO",
+      "values": [
+        {
+          "key": "3943"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "LARA",
+      "values": [
+        {
+          "key": "3944"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "MERIDA",
+      "values": [
+        {
+          "key": "3945"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "MIRANDA",
+      "values": [
+        {
+          "key": "3946"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "MONAGAS",
+      "values": [
+        {
+          "key": "3947"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "NUEVA ESPARTA",
+      "values": [
+        {
+          "key": "3948"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "PORTUGUESA",
+      "values": [
+        {
+          "key": "3949"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "SUCRE",
+      "values": [
+        {
+          "key": "3950"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "TACHIRA",
+      "values": [
+        {
+          "key": "3951"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "TRUJILLO",
+      "values": [
+        {
+          "key": "3952"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "VARGAS",
+      "values": [
+        {
+          "key": "3957"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "YARACUY",
+      "values": [
+        {
+          "key": "3953"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "ZULIA",
+      "values": [
+        {
+          "key": "3954"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    }
+  ],
+  "name": "Users in venezuelan states",
+  "publisher_platforms": [
+        "facebook"
+    ]
+}

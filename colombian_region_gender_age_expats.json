@@ -1,0 +1,386 @@
+{
+  "name": "Venezuelan Expats in Colombian Cities segmented by gender and age",
+  "behavior": [
+    {
+      "or": [
+        6026404871583
+      ],
+      "name": "Expats(Venezuela)"
+    }
+  ],
+  "genders": [
+    1,
+    2
+  ],
+  "ages_ranges": [
+    {"min":13, "max":17},
+    {"min":18, "max":28},
+    {"min":29, "max":59},
+    {"min":60, "max":65}
+  ],
+  "geo_locations": [
+    {
+      "values": [
+        {
+          "key": "716"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "717"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "718"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "738"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "719"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "747"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "748"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "749"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "750"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "722"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "745"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "723"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "724"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "725"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "726"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "746"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "728"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "727"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "729"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "730"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "731"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "732"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "733"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "734"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "735"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "736"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "737"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "739"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "740"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "741"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "742"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "743"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "744"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    }
+  ]
+}

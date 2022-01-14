@@ -1,0 +1,54 @@
+{
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "behavior": [
+    {
+      "or": [
+        6026404871583
+      ],
+      "name": "Expats(Venezuela)"
+    }
+  ],
+  "genders": [
+    0
+  ],
+  "geo_locations": [
+    {
+      "pySocialWatcherReference": "0",
+      "values": [
+        {
+          "latitude": 7.00896,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -71.425005
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "1",
+      "values": [
+        {
+          "latitude": 7.027218,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -71.424664
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    }
+  ],
+  "name": "Venezuelan Expats in Arauquita"
+}

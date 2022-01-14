@@ -1,0 +1,17 @@
+{
+    "genders": [0], 
+  "ages_ranges": [{"max": 65, "min": 13}],
+    "behavior": [
+        {"or": [6026404871583], 
+        "name": "Expats(Venezuela)"}
+      ], 
+  "geo_locations": 
+  [
+    {"values": [{"key": "459425"}], "name": "cities", "location_types": ["home"]}, 
+    {"values": [{"key": "479377"}], "name": "cities", "location_types": ["home"]}, 
+    {"values": [{"key": "477881"}], "name": "cities", "location_types": ["home"]}, 
+    {"values": [{"key": "479963"}], "name": "cities", "location_types": ["home"]},
+    {"values": [{"key": "458130"}], "name": "cities", "location_types": ["home"]}
+  ], 
+  "name": "checking values"
+}

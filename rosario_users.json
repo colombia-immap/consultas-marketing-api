@@ -1,0 +1,142 @@
+{
+  "genders": [
+    0
+  ],
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "geo_locations": [
+    {
+      "values": [
+        {
+          "latitude": 7.825622,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.45983
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "0"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.8171,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.475976
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "1"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.83526,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.475317
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "2"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.843788,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.45915
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "3"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.85339,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.474738
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "4"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.862027,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.458571
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "5"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.880266,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.458
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "7"
+    },
+    {
+      "values": [
+        {
+          "latitude": 7.807501,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.460573
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ],
+      "pySocialWatcherReference": "8"
+    }
+  ],
+  "name": "Venezuelan Expats in Villa del Rosario"
+}

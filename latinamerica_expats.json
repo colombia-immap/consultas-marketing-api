@@ -1,0 +1,50 @@
+{   
+    "name": "Venezuelan Expats in Colombia segmented",
+    "publisher_platforms": [
+        "facebook"
+    ],
+    "geo_locations": [
+        { "name": "countries", "values": ["AR"] },
+        { "name": "countries", "values": ["BO"] },
+        { "name": "countries", "values": ["BR"] },
+        { "name": "countries", "values": ["CL"] },
+        { "name": "countries", "values": ["CO"] },
+        { "name": "countries", "values": ["CR"] },
+        { "name": "countries", "values": ["EC"] },
+        { "name": "countries", "values": ["SV"] },
+        { "name": "countries", "values": ["GF"] },
+        { "name": "countries", "values": ["GD"] },
+        { "name": "countries", "values": ["GT"] },
+        { "name": "countries", "values": ["GY"] },
+        { "name": "countries", "values": ["HT"] },
+        { "name": "countries", "values": ["HN"] },
+        { "name": "countries", "values": ["JM"] },
+        { "name": "countries", "values": ["MX"] },
+        { "name": "countries", "values": ["NI"] },
+        { "name": "countries", "values": ["PY"] },
+        { "name": "countries", "values": ["PA"] },
+        { "name": "countries", "values": ["PE"] },
+        { "name": "countries", "values": ["PR"] },
+        { "name": "countries", "values": ["DO"] },
+        { "name": "countries", "values": ["SR"] },
+        { "name": "countries", "values": ["UY"] },
+        { "name": "countries", "values": ["TT"] },
+        { "name": "countries", "values": ["AW"] },
+        { "name": "countries", "values": ["CW"] },
+        { "name": "countries", "values": ["BZ"] },
+        { "name": "countries", "values": ["AG"] },
+        { "name": "countries", "values": ["BS"] },
+        { "name": "countries", "values": ["BB"] },
+        { "name": "countries", "values": ["DM"] },
+        { "name": "countries", "values": ["GP"] },
+        { "name": "countries", "values": ["MQ"] }
+    ],
+    "genders": [0],
+    "ages_ranges": [
+        {"min":13, "max":65}
+    ],
+    "behavior": [
+        {"or": [6026404871583], 
+        "name": "Expats(Venezuela)"}
+      ]
+}

@@ -1,0 +1,394 @@
+{
+  "publisher_platforms": [
+    "facebook"
+  ],
+  "genders": [
+    0
+  ],
+  "behavior": [
+    {
+      "or": [6004384041172],
+      "name": "iOS"
+    },
+    {
+      "or": [6004386044572],
+      "name": "Android"
+    },
+    {
+      "not": [6004384041172,6004386044572],
+      "name": "Other devices"
+    }
+  ],
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "geo_locations": [
+    {
+      "values": [
+        {
+          "key": "716"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "717"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "718"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "738"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "719"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "747"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "748"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "749"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "750"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "722"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "745"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "723"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "724"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "725"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "726"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "746"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "728"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "727"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "729"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "730"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "731"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "732"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "733"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "734"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "735"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "736"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "737"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "739"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "740"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "741"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "742"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "743"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    },
+    {
+      "values": [
+        {
+          "key": "744"
+        }
+      ],
+      "name": "regions",
+      "location_types": [
+        "home"
+      ]
+    }
+  ],
+  "name": "Users in Colombian Regions segmented by devices"
+}

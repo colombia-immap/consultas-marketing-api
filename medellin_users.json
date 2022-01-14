@@ -1,0 +1,814 @@
+{
+  "genders": [
+    0
+  ],
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "geo_locations": [
+    {
+      "pySocialWatcherReference": "0",
+      "values": [
+        {
+          "latitude": 6.259105,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.607849
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "1",
+      "values": [
+        {
+          "latitude": 6.313791,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.572482
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "2",
+      "values": [
+        {
+          "latitude": 6.295612,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.571898
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "3",
+      "values": [
+        {
+          "latitude": 6.295504,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553697
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "4",
+      "values": [
+        {
+          "latitude": 6.313791,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553806
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "5",
+      "values": [
+        {
+          "latitude": 6.29596,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535476
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "6",
+      "values": [
+        {
+          "latitude": 6.277888,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535292
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "7",
+      "values": [
+        {
+          "latitude": 6.277379,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553579
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "8",
+      "values": [
+        {
+          "latitude": 6.277312,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.571286
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "9",
+      "values": [
+        {
+          "latitude": 6.277538,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.58936
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "10",
+      "values": [
+        {
+          "latitude": 6.277399,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.607657
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "11",
+      "values": [
+        {
+          "latitude": 6.259215,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.589953
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "12",
+      "values": [
+        {
+          "latitude": 6.295958,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.608278
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "13",
+      "values": [
+        {
+          "latitude": 6.295612,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.589797
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "14",
+      "values": [
+        {
+          "latitude": 6.277585,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.625722
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "15",
+      "values": [
+        {
+          "latitude": 6.258929,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.571898
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "16",
+      "values": [
+        {
+          "latitude": 6.259298,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553697
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "17",
+      "values": [
+        {
+          "latitude": 6.259492,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535713
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "18",
+      "values": [
+        {
+          "latitude": 6.259248,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.626091
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "19",
+      "values": [
+        {
+          "latitude": 6.241105,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.608019
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "20",
+      "values": [
+        {
+          "latitude": 6.241314,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.590004
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "21",
+      "values": [
+        {
+          "latitude": 6.241105,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.57199
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "22",
+      "values": [
+        {
+          "latitude": 6.240895,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553976
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "23",
+      "values": [
+        {
+          "latitude": 6.240895,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535962
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "24",
+      "values": [
+        {
+          "latitude": 6.222846,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.608134
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "25",
+      "values": [
+        {
+          "latitude": 6.223091,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.590214
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "26",
+      "values": [
+        {
+          "latitude": 6.222672,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.571955
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "27",
+      "values": [
+        {
+          "latitude": 6.222614,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553847
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "28",
+      "values": [
+        {
+          "latitude": 6.222462,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535717
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "29",
+      "values": [
+        {
+          "latitude": 6.204413,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.57199
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "30",
+      "values": [
+        {
+          "latitude": 6.204448,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.553767
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "31",
+      "values": [
+        {
+          "latitude": 6.204239,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.518157
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "32",
+      "values": [
+        {
+          "latitude": 6.186189,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.571781
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "33",
+      "values": [
+        {
+          "latitude": 6.186434,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.554185
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "34",
+      "values": [
+        {
+          "latitude": 6.205286,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.590423
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "35",
+      "values": [
+        {
+          "latitude": 6.204551,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.608322
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "36",
+      "values": [
+        {
+          "latitude": 6.187481,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.644029
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "37",
+      "values": [
+        {
+          "latitude": 6.187481,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.662061
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "38",
+      "values": [
+        {
+          "latitude": 6.279592,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.644239
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "39",
+      "values": [
+        {
+          "latitude": 6.223972,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.626409
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "40",
+      "values": [
+        {
+          "latitude": 6.169291,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.644471
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "41",
+      "values": [
+        {
+          "latitude": 6.26005,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.500275
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "42",
+      "values": [
+        {
+          "latitude": 6.24068,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.518094
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "43",
+      "values": [
+        {
+          "latitude": 6.241068,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.500275
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "44",
+      "values": [
+        {
+          "latitude": 6.223248,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.499887
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "45",
+      "values": [
+        {
+          "latitude": 6.205041,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.499887
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "46",
+      "values": [
+        {
+          "latitude": 6.169401,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.661815
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "47",
+      "values": [
+        {
+          "latitude": 6.348761,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.697841
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "48",
+      "values": [
+        {
+          "latitude": 6.241068,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.480518
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "49",
+      "values": [
+        {
+          "latitude": 6.169014,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -75.535914
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    }
+  ],
+  "name": "Venezuelan Expats in Medellin"
+}

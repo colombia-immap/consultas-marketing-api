@@ -1,0 +1,206 @@
+{
+  "genders": [
+    0
+  ],
+  "ages_ranges": [
+    {
+      "max": 65,
+      "min": 13
+    }
+  ],
+  "geo_locations": [
+    {
+      "pySocialWatcherReference": "0",
+      "values": [
+        {
+          "latitude": 11.519957,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.901361
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "1",
+      "values": [
+        {
+          "latitude": 11.520163,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.919743
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "2",
+      "values": [
+        {
+          "latitude": 11.5358,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.910326
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "3",
+      "values": [
+        {
+          "latitude": 11.536003,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.928695
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "4",
+      "values": [
+        {
+          "latitude": 11.535553,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.891742
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "5",
+      "values": [
+        {
+          "latitude": 11.50454,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.929082
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "6",
+      "values": [
+        {
+          "latitude": 11.551318,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.900909
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "7",
+      "values": [
+        {
+          "latitude": 11.551695,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.91925
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "8",
+      "values": [
+        {
+          "latitude": 11.519634,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.882952
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "9",
+      "values": [
+        {
+          "latitude": 11.52037,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.938117
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "10",
+      "values": [
+        {
+          "latitude": 11.504305,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.910747
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    {
+      "pySocialWatcherReference": "11",
+      "values": [
+        {
+          "latitude": 11.504025,
+          "distance_unit": "kilometer",
+          "radius": 1,
+          "longitude": -72.892373
+        }
+      ],
+      "name": "custom_locations",
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    }
+  ],
+  "name": "Venezuelan Expats in Rioacha"
+}
